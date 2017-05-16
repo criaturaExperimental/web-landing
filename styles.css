@@ -8,7 +8,7 @@ body{
 }
 p{
   color:#ADADAD;
-  font-family: Raleway;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
   font-size: 350%;
   text-align: center;
 }
