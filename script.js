@@ -13,7 +13,6 @@ function nextMsg() {
     nextMsg();
   } else{
     $('#message').html(messages2.pop()).fadeIn(700).delay(3000).fadeOut(700, nextMsg);
-    console.log(messages2);
   };
 
 };
